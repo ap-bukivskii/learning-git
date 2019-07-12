@@ -1,1 +1,1 @@
-README for the git learning
+Learning git README
